@@ -224,7 +224,8 @@ sed 's/    /\t/g' "$input_file" > "$output_file"
 
 echo "Заменено в файле: '$output_file'"
 ```
-- ![image](https://github.com/user-attachments/assets/86eb1de7-b829-48eb-8c42-39325b83f712)
+![image](https://github.com/user-attachments/assets/6167ac73-5bf9-4b4e-9d30-a37fb7c3b2a4)
+
 
 # Задание 10
 ```
