@@ -245,4 +245,5 @@ fi
 
 find "$directory" -type f -name "*.txt" -empty -exec basename {} \;
 ```
-- ![image](https://github.com/user-attachments/assets/4823ea05-d7c7-48d2-9044-99de685a2903)
+![image](https://github.com/user-attachments/assets/3da5d7b3-f931-4091-8a62-12b60a3965f9)
+
