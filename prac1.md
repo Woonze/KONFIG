@@ -200,7 +200,8 @@ tar -cvf "$archive_name" -C "$directory" ./*."$extension"
 
 echo "Архив '$archive_name' успешно создан."
 ```
-- ![image](https://github.com/user-attachments/assets/61b13c58-2601-4844-a376-4c2f49c0985a)
+![image](https://github.com/user-attachments/assets/042ac0e8-509c-4186-bb08-e6c3a7b8e4c2)
+
 
 # Задание 9
 ```
