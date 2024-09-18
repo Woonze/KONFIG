@@ -17,7 +17,8 @@ print('+' + '-' * (len(x)+2) + '+')
 print(f'| {x} |')
 print('+' + '-' * (len(x)+2) + '+')
 ```
-- ![image](https://github.com/user-attachments/assets/ba1ecbbe-8625-4b99-b2ac-c11c67132b95)
+![image](https://github.com/user-attachments/assets/b49131c1-2230-41d2-929b-f6ae8a9bd9be)
+
 
 # Задание 4
 ```
