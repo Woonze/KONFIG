@@ -1,17 +1,6 @@
 # Практическое занятие №2.
 
 ## Задание 1
+pip show matplotlib
 
-```
-import matplotlib
-print(f"Matplotlib version: {matplotlib.__version__}")
-print(f"Matplotlib location: {matplotlib.__file__}")
-print(f"Matplotlib description: {matplotlib.__doc__}")
-```
-- ![image](https://github.com/user-attachments/assets/cf6ad5d0-6053-40cc-a89e-3882747b7c69)
-- ![image](https://github.com/user-attachments/assets/feee00a8-f67c-491b-b269-5872e5ca465f)
-- 
-> Для получения пакета без менеджеров пакетов, прямиком из репозитория:
-```
-git clone https://github.com/matplotlib/matplotlib.git
-```
+![image](https://github.com/user-attachments/assets/18ca1d5a-ff37-4223-8bd9-37ad685633d8)
