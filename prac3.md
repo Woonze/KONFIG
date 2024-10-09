@@ -80,9 +80,9 @@ local students = [
 ```
 <div width="200" height="200">
 
-</div>
+![image](https://github.com/user-attachments/assets/de5abeb0-44df-4d0d-9e86-409b87ded931)
+![image](https://github.com/user-attachments/assets/3b2bd6df-a5ad-4da4-bb0e-81d9dac6358f)
 
-<br><br>
 
 # Задание 2
 
@@ -174,9 +174,9 @@ students:
 subject: "Конфигурационное управление"
 ```
 
-<div width="200" height="200">
+![image](https://github.com/user-attachments/assets/d67c11df-7178-4502-a358-d4fefc3fb996)
+![image](https://github.com/user-attachments/assets/cad04454-570c-419b-978a-569425a8d732)
 
-</div>
 
 # Задание 3 
 
@@ -193,6 +193,7 @@ E = 0 0 0
 for i in range(10):
     print(generate_phrase(parse_bnf(BNF), 'S'))
 ```
+![image](https://github.com/user-attachments/assets/5a1c503a-85df-4d45-9a23-4cb49ad02486)
 
 
 # Задание 4
@@ -209,6 +210,7 @@ for i in range(10):
     print(generate_phrase(parse_bnf(BNF), 'S'))
 
 ```
+![image](https://github.com/user-attachments/assets/ff91f5d4-0bd7-489d-a86e-9e4c49e1201e)
 
 
 # Задание 5
@@ -224,5 +226,6 @@ F = x | y
 for i in range(10):
     print(generate_phrase(parse_bnf(BNF), 'S'))
 ```
+![image](https://github.com/user-attachments/assets/ab58a678-89fa-4e5b-9584-4f835b589e24)
 
 
