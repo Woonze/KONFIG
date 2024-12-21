@@ -1,0 +1,4 @@
+Graphviz Path,/usr/bin/dot
+Package Name,requests
+Output Path,output/dependencies_graph
+Max Depth,3
