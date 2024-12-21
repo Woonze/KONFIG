@@ -1,0 +1,25 @@
+{- Database Configuration Example -}
+var dbport = 5432;
+var maxconn = 100;
+
+database: ({
+    main: {
+        host: @"localhost",
+        port: $(dbport),
+        name: @"myapp_db",
+        credentials: {
+            username: @"admin",
+            password: @"secret"
+        }
+    },
+    replica: {
+        host: @"replica.server",
+        port: $(dbport),
+        name: @"myapp_db_replica"
+    },
+    settings: {
+        maxconnections: $(maxconn),
+        timeout: 30,
+        ssl: true
+    }
+})

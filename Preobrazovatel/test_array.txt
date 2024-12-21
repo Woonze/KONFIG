@@ -1,0 +1,14 @@
+var count = 3;
+var prefix = "item";
+
+items: ({
+    values: { 
+        a: $(count),
+        b: @"$(prefix)_1",
+        c: true
+    },
+    flags: {
+        enabled: true,
+        visible: false
+    }
+})

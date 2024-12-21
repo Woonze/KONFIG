@@ -1,0 +1,20 @@
+game:
+  enemies:
+    spawntime: 30
+    types:
+      skeleton:
+        damage: 15
+        speed: 7
+      zombie:
+        damage: 10
+        speed: 5
+  player:
+    canfly: false
+    health: 100
+    speed: 10
+  world:
+    difficulty: normal
+    name: Fantasy World
+    size:
+      height: 1000
+      width: 1000

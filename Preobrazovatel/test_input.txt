@@ -1,0 +1,13 @@
+var test_var = 42;
+var name = "John";
+
+data: ({ 
+    username: @"$(name)",
+    age: 30,
+    active: true
+})
+
+nested_data: ({
+    item1: { key1: 10, key2: @"value" },
+    item2: { key3: $(test_var) }
+})

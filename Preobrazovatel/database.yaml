@@ -1,0 +1,16 @@
+database:
+  main:
+    credentials:
+      password: secret
+      username: admin
+    host: localhost
+    name: myapp_db
+    port: 5432
+  replica:
+    host: replica.server
+    name: myapp_db_replica
+    port: 5432
+  settings:
+    maxconnections: 100
+    ssl: true
+    timeout: 30

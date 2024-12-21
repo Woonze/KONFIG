@@ -1,0 +1,32 @@
+{- Game Configuration Example -}
+var health = 100;
+var spawntime = 30;
+
+game: ({
+    player: {
+        health: $(health),
+        speed: 10,
+        canfly: false
+    },
+    world: {
+        name: @"Fantasy World",
+        size: {
+            width: 1000,
+            height: 1000
+        },
+        difficulty: @"normal"
+    },
+    enemies: {
+        spawntime: $(spawntime),
+        types: {
+            zombie: {
+                damage: 10,
+                speed: 5
+            },
+            skeleton: {
+                damage: 15,
+                speed: 7
+            }
+        }
+    }
+})

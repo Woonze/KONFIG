@@ -1,0 +1,6 @@
+var test_var = 42;
+global_value = 10
+data: ([name: "John", age: 30, active: true])
+nested_data: (
+  [item1: {"key1": 10, key2: "value"}, item2: {"key3": $(test_var)}]
+)

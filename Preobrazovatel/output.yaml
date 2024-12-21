@@ -1,0 +1,8 @@
+items:
+  flags:
+    enabled: true
+    visible: false
+  values:
+    a: 3
+    b: item_1
+    c: true
