@@ -66,7 +66,8 @@ git push origin master
 git log --graph --all
 ```
 
-лог ```
+лог 
+```
 (base) mary@iMac-Mary mirea_config % cd server
 (base) mary@iMac-Mary server % git init --bare
 Initialized empty Git repository in /Users/mary/Desktop/mirea_config/server/
