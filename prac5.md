@@ -103,7 +103,7 @@ def foo(n):
 print(dis.dis(foo))
 ```
 
-#Задание 5
+# Задание 5
 
 ``` python
 def asm(code):
