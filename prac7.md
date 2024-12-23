@@ -38,7 +38,8 @@
 \end{document}
 
 ```
-![image](https://github.com/user-attachments/assets/fbcba8f7-4d04-405a-bc9a-a12bf813d2c7)
+![image](https://github.com/user-attachments/assets/353ef7e5-308d-4504-962e-76415b84fa8d)
+
 
 ## Задача 2
 
