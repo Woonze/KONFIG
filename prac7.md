@@ -17,7 +17,7 @@
 \usepackage{amsmath} 
 
 \title{Task_1}
-\author{mishavsit }
+\author{turka }
 \date{November 2024}
 
 \begin{document}
@@ -33,7 +33,7 @@
 
 \bigskip
 
-\textbf{Name:} Student Sitnov M.V.
+\textbf{Name:} Student Tur K.A.
 
 \end{document}
 
@@ -54,7 +54,7 @@
 # PlantUML Editor
 
 @startuml
-actor "Студент Ситнов М.В." as Student
+actor "Студент Тур К.А." as Student
 database "Piazza" as Piazza
 actor "Преподаватель" as Teacher
 
