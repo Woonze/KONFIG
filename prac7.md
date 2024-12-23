@@ -87,5 +87,6 @@ Piazza --> Student: Оценка получена
 
 @enduml
 ```
-![image](https://github.com/user-attachments/assets/e90f5281-8370-4968-ae63-edd5883e92de)
+
+![bPFFJeD04CRl9Bp3fFVs0JoOFeA9li1QDh69rWIs7df2IAm7atepyU2_9q0ZaK8Ahp3pHix21cYbYk6mIzZlczz-Cumz9LmrlpYtBJ5HbouCy9K22l4JOznG0FX68Vc0ZoEy7mr0U72ivewSATjoX1AdmfCmE9gAnKAKNwjju_PCFZiLcBDZX1yOKS3l6TsLfq-ac9n9rxPiosnXU6Wy3e](https://github.com/user-attachments/assets/1e97d87e-8865-4a8f-8f7c-3bec73c445d5)
 
